@@ -97,7 +97,8 @@ Make sure you can login into the websute with myuser user.![alt text](image.jpg)
 #ssh into instance
 #Open TCP port 80 on Project-8-apache-lb
 
-Check jenkins                                                                                
+Check jenkins 
+Check Jenkins                                                                               
                                                                                 
                                                                                 
                                                                                 
