@@ -95,4 +95,9 @@ Make sure you can login into the websute with myuser user.![alt text](image.jpg)
 #Continuing from previous project
 #Create an Ubuntu Server 20.04 EC2 instance and name it Project-8-apache-lb
 #ssh into instance
-#Open TCP port 80 on Project-8-apache-lb 
+#Open TCP port 80 on Project-8-apache-lb
+
+Check jenkins                                                                                
+                                                                                
+                                                                                
+                                                                                
